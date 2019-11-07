@@ -1,2 +1,1 @@
-# qa4camera.github.io
-QA for  cameras
+# imagecompetition.github.io
