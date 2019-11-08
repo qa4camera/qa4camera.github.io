@@ -1,6 +1,7 @@
 mark{
   color:red;
-  background-color:aquamarine
+  /*background-color:rgb(230, 220, 220);*/
+  font-weight:bolder
 }
 
 /*
